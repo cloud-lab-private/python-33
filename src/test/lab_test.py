@@ -1,5 +1,5 @@
 import unittest
-from ..main.lab import count_digits
+from src.main.lab import count_digits
 
 class TestCountDigits(unittest.TestCase):
     
